@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_DANA</name>
+   <tag></tag>
+   <elementGuidId>1e189ab4-55fc-4160-9e53-9cdfc028312c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopeepay'])[1]/following::label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>586dd946-cf14-40d2-bc65-83d0169a80d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-label</value>
+      <webElementGuid>b59bea9f-48c0-459f-aac2-c381f56dede0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>DANA</value>
+      <webElementGuid>fefab0bd-0434-47b1-abe6-0927932440a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  DANA
+                </value>
+      <webElementGuid>81edb27c-c2ed-4cb9-bed5-7660fb69f4b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;container marketing&quot;]/div[@class=&quot;row if-data-payment event-menu-tab&quot;]/div[@class=&quot;col-md-8 col-8-nav&quot;]/div[@class=&quot;payment-list payment-ewallet&quot;]/div[@class=&quot;col-md-12 form-data-check&quot;]/div[@class=&quot;form-check&quot;]/label[@class=&quot;form-check-label&quot;]</value>
+      <webElementGuid>834fa61b-c55d-44b2-b500-981a731955d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopeepay'])[1]/following::label[1]</value>
+      <webElementGuid>ace62e70-209e-49ae-85c7-6efce57c9f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALFAMART'])[1]/following::label[2]</value>
+      <webElementGuid>0ff94fe1-ef83-467f-96f0-27d6e55f7314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OVO'])[1]/preceding::label[1]</value>
+      <webElementGuid>336b824a-4e88-4008-b7ca-b3c68730e521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Link Aja'])[1]/preceding::label[2]</value>
+      <webElementGuid>31cdc44f-b839-4d05-9272-4880c5a14865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DANA']/parent::*</value>
+      <webElementGuid>4b0906de-6ad6-44df-a901-127f0881c666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[3]/div/label</value>
+      <webElementGuid>07a71d5f-0d30-49b3-b0f0-bd696d889987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+                  DANA
+                ' or . = '
+                  DANA
+                ')]</value>
+      <webElementGuid>dc610ae6-76a0-4727-b714-2430678bbbeb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

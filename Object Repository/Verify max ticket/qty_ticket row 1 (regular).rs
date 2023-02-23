@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>qty_ticket row 1 (regular)</name>
+   <tag></tag>
+   <elementGuidId>aefa3218-aa52-4cab-a385-86b2a75f3167</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.text-center.input-data-3411.input-qty-vip-early-bird-day-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9d1f6576-01f8-45e6-a94b-c301bcd876c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>684b2425-6789-4efc-90fc-8f8b938e0d15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control text-center input-data-3411 input-qty-vip-early-bird-day-1</value>
+      <webElementGuid>7301b518-6a7f-45f7-bacd-15ef55c965dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>3695b9c3-4343-4659-aca8-613ad37a1c64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;container marketing&quot;]/div[@class=&quot;row if-data-ticket event-menu-tab&quot;]/div[@class=&quot;col-md-8&quot;]/ul[@class=&quot;list-group&quot;]/li[@class=&quot;list-group-item align-items-center&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 text-right&quot;]/div[@class=&quot;input-group mb-3 pull-right&quot;]/div[@class=&quot;input-group mb-3&quot;]/input[@class=&quot;form-control text-center input-data-3411 input-qty-vip-early-bird-day-1&quot;]</value>
+      <webElementGuid>5073eebe-8297-4c08-a85f-540745454e60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='0']</value>
+      <webElementGuid>f9f3b602-d50d-46d7-8c40-e25950fd346e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>78967722-a656-426b-8dd2-c3be829073e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>1d3d4e1c-74e9-44d4-8e26-f1e3aece265b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

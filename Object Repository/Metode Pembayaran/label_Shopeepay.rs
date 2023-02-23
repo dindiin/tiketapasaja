@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Shopeepay</name>
+   <tag></tag>
+   <elementGuidId>740450e4-a501-4815-a9fc-5c3a546d12c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.payment-list.payment-ewallet > div.col-md-12.form-data-check > div.form-check > label.form-check-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ALFAMART'])[1]/following::label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>34db5445-5914-4665-ac82-374bd7a57fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-label</value>
+      <webElementGuid>d77a10a8-5de8-4bca-a369-117bf8ff9f31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ESHP</value>
+      <webElementGuid>d7b3c0cf-4f53-4b4a-a438-873132b0f9d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Shopeepay
+                </value>
+      <webElementGuid>8b9e4f0e-2514-4d00-a28a-0e1201f67e1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;container marketing&quot;]/div[@class=&quot;row if-data-payment event-menu-tab&quot;]/div[@class=&quot;col-md-8 col-8-nav&quot;]/div[@class=&quot;payment-list payment-ewallet&quot;]/div[@class=&quot;col-md-12 form-data-check&quot;]/div[@class=&quot;form-check&quot;]/label[@class=&quot;form-check-label&quot;]</value>
+      <webElementGuid>c1515f4a-e2b4-464d-9272-a4c3feb28bff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALFAMART'])[1]/following::label[1]</value>
+      <webElementGuid>a067bd1a-d294-481d-a967-a6bcc7bb368e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CREDIT/DEBIT CARD'])[1]/following::label[2]</value>
+      <webElementGuid>af4a8313-2740-4095-95c5-afa23d89b4a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DANA'])[1]/preceding::label[1]</value>
+      <webElementGuid>12b21df7-11a8-4ca4-9ead-84cae42528ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OVO'])[1]/preceding::label[2]</value>
+      <webElementGuid>ba6beca7-c29c-4b18-abe7-813fd5280b18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shopeepay']/parent::*</value>
+      <webElementGuid>3e781b35-f2e3-41ae-9385-78daca9104e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/label</value>
+      <webElementGuid>c165917b-73ff-4ced-9bd7-a16664210152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+                  Shopeepay
+                ' or . = '
+                  Shopeepay
+                ')]</value>
+      <webElementGuid>ca4020b5-cea9-4f5e-8111-c53110c39fc9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

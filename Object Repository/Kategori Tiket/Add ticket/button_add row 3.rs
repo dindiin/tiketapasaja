@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_add row 3</name>
+   <tag></tag>
+   <elementGuidId>fea6be6f-65c4-4c4a-88fb-e850d7f470b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 500'])[1]/following::button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>91b74023-83b8-4cf3-ad38-fa1f603e654b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-secondary btn-qty-plus</value>
+      <webElementGuid>beb552b7-bb47-4e48-8c9c-97bd7444da5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-class</name>
+      <type>Main</type>
+      <value>vip-early-bird-2-days-pass</value>
+      <webElementGuid>5b00d481-bbd6-4e3b-88e2-303df01f4711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>3415</value>
+      <webElementGuid>5e900c0a-04f6-49fe-b12c-54ba22e7dc90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-max</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>e9642f2d-df43-40b1-9400-7ab1f132dbf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-package</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>49b9f422-5770-4f29-915b-3c7a261ecc28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;container marketing&quot;]/div[@class=&quot;row if-data-ticket event-menu-tab&quot;]/div[@class=&quot;col-md-8&quot;]/ul[@class=&quot;list-group&quot;]/li[@class=&quot;list-group-item align-items-center&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 text-right&quot;]/div[@class=&quot;input-group mb-3 pull-right&quot;]/div[@class=&quot;input-group mb-3&quot;]/button[@class=&quot;btn btn-outline-secondary btn-qty-plus&quot;]</value>
+      <webElementGuid>237899ce-8e29-4630-8a40-4880720c2134</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 500'])[1]/following::button[2]</value>
+      <webElementGuid>4ff0abed-8869-4454-b727-5e75281f6254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 700.000'])[1]/preceding::button[1]</value>
+      <webElementGuid>68b3e539-420f-413a-a2ef-8833e2a8b536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div[2]/div/div/button[2]</value>
+      <webElementGuid>f4347d53-6d9e-494e-9745-778b3aed897a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

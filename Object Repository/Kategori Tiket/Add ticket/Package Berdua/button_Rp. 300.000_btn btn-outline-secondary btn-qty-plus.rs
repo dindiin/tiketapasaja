@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Rp. 300.000_btn btn-outline-secondary btn-qty-plus</name>
+   <tag></tag>
+   <elementGuidId>8b0716f3-8a42-4a60-8101-2683762343e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 300.000'])[1]/following::button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2e43c95d-93a8-4582-b987-994dd4ac1168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-secondary btn-qty-plus</value>
+      <webElementGuid>2e399e0e-e937-4022-b102-9bf604c42ae8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-class</name>
+      <type>Main</type>
+      <value>package-berdua-early-bird-day-2</value>
+      <webElementGuid>77c036ef-7cac-465a-beeb-c6ac9dc3a3ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>3426</value>
+      <webElementGuid>95bd9998-6758-447e-a166-20a28221ba39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-max</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>3fa5d659-3c71-4d2b-913e-4c1ffd5bc5fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-package</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>d40d13d4-5592-4a63-8956-f85623d4fccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;container marketing&quot;]/div[@class=&quot;row if-data-ticket event-menu-tab&quot;]/div[@class=&quot;col-md-8&quot;]/ul[@class=&quot;list-group&quot;]/li[@class=&quot;list-group-item align-items-center&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 text-right&quot;]/div[@class=&quot;input-group mb-3 pull-right&quot;]/div[@class=&quot;input-group mb-3&quot;]/button[@class=&quot;btn btn-outline-secondary btn-qty-plus&quot;]</value>
+      <webElementGuid>594d6eae-c1d3-4c32-b152-fd8565cab0d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 300.000'])[1]/following::button[2]</value>
+      <webElementGuid>1e93fe66-15fc-4154-84cd-d4e3946b294b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DESKRIPSI EVENT'])[1]/preceding::button[1]</value>
+      <webElementGuid>ce9220d9-b540-49a3-8901-e52d0d88787d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RINGKASAN'])[1]/preceding::button[2]</value>
+      <webElementGuid>8c49aea4-859e-4aec-b0b8-a135266d5c8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div[2]/div/div/button[2]</value>
+      <webElementGuid>001d165b-03da-4869-b137-37c91d2b861d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

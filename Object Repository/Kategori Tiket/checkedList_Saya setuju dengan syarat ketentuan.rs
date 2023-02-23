@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkedList_Saya setuju dengan syarat ketentuan</name>
+   <tag></tag>
+   <elementGuidId>55d73a7e-fba8-4989-8876-a65827e843a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-check.form-check-inline > div.custom-control.custom-checkbox.my-1.mr-sm-2 > label.custom-control-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-tnc']/div/div/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5ca10b4f-d074-44dd-9399-7c7869af217d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label</value>
+      <webElementGuid>a236ae22-e525-4bea-9e9c-9d57aa56050e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>agree_tnc</value>
+      <webElementGuid>bcf63bda-9d07-4bd5-b92f-9fa5bb3c4ca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saya setuju dengan syarat ketentuan dan kebijakan privasi dari tiketapasaja.com</value>
+      <webElementGuid>2fde609a-59c8-42f7-8683-64c529d6315d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-tnc&quot;)/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-check form-check-inline&quot;]/div[@class=&quot;custom-control custom-checkbox my-1 mr-sm-2&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
+      <webElementGuid>c5648556-79f7-4a51-8b70-6a6ff55cc4f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-tnc']/div/div/div/div/div/label</value>
+      <webElementGuid>8bdd1c85-cc39-4690-91a3-42a0a8052f9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing yang tercatat adalah Finpay Online Payment.'])[1]/following::label[1]</value>
+      <webElementGuid>66cc8a08-1941-466b-a1d4-cfb3ae130ce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiket yang sah adalah e-ticket yang sudah ditukarkan dengan tiket asli sebagai tanda masuk acara.'])[1]/following::label[1]</value>
+      <webElementGuid>ba2aa7df-fff3-4d97-bdaa-39e0884fd4de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KEMBALI'])[1]/preceding::label[1]</value>
+      <webElementGuid>5abd10f0-9a77-4ba5-915f-55b802c4341e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Saya setuju dengan syarat ketentuan dan']/parent::*</value>
+      <webElementGuid>9a9f586b-dd16-4756-92aa-15382a67777e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/div/label</value>
+      <webElementGuid>cba62c8b-790a-48d9-b6dd-1a430a66d1bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Saya setuju dengan syarat ketentuan dan kebijakan privasi dari tiketapasaja.com' or . = 'Saya setuju dengan syarat ketentuan dan kebijakan privasi dari tiketapasaja.com')]</value>
+      <webElementGuid>2d2cfbb7-513c-4e52-b50c-2991eb4a633a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

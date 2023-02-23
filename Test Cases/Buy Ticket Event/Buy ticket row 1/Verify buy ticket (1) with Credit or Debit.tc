@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify buy ticket (1) with Credit or Debit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd64ee6f-ef85-443c-8983-c6675f3ba984</testCaseGuid>
+</TestCaseEntity>

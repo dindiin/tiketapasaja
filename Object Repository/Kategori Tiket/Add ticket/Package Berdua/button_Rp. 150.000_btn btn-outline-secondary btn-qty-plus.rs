@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Rp. 150.000_btn btn-outline-secondary btn-qty-plus</name>
+   <tag></tag>
+   <elementGuidId>bbf6d172-fa67-4cbb-b57f-90ea84a0eb60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-outline-secondary.btn-qty-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 150.000'])[1]/following::button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>65bedfcc-3937-4ac1-a1c6-442103505487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-secondary btn-qty-plus</value>
+      <webElementGuid>9310c389-4da4-47af-af85-4f9aeb4c9850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-class</name>
+      <type>Main</type>
+      <value>package-berdua-early-bird-day-1</value>
+      <webElementGuid>ff6d2bad-3a62-405d-9fe5-9249ff79aad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>3425</value>
+      <webElementGuid>70d84973-350e-4d06-b6b1-6a4c90f00d5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-max</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>c702003a-022d-4481-9065-ae72768e62ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-package</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>1e28a1ef-9af5-4397-a576-902feb8958af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;container marketing&quot;]/div[@class=&quot;row if-data-ticket event-menu-tab&quot;]/div[@class=&quot;col-md-8&quot;]/ul[@class=&quot;list-group&quot;]/li[@class=&quot;list-group-item align-items-center&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 text-right&quot;]/div[@class=&quot;input-group mb-3 pull-right&quot;]/div[@class=&quot;input-group mb-3&quot;]/button[@class=&quot;btn btn-outline-secondary btn-qty-plus&quot;]</value>
+      <webElementGuid>d05573e0-ecae-4d4d-809e-5f1f23115e2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 150.000'])[1]/following::button[2]</value>
+      <webElementGuid>54a6b280-d41d-4226-86f5-0cf037866b86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 300.000'])[1]/preceding::button[1]</value>
+      <webElementGuid>54324341-2565-4179-804f-fab4e5115592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>064e5cab-125e-4113-9073-bf7606b20741</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

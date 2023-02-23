@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify buy ticket (2) and seat (A) with Mandiri</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>880baff3-ca23-4e09-958d-413152b80331</testCaseGuid>
+</TestCaseEntity>

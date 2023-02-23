@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify buy ticket seat (A) with OVO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aef1544e-ca27-46e4-9bf3-9d5efcd8f53a</testCaseGuid>
+</TestCaseEntity>

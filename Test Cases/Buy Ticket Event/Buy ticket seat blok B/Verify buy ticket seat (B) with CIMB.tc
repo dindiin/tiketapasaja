@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify buy ticket seat (B) with CIMB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25e59f42-e1b6-4de7-a33f-d1f698ff8e5e</testCaseGuid>
+</TestCaseEntity>

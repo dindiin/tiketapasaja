@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify buy ticket seat (A) with BRI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>499c2e2d-9408-4bd6-a786-55499b092b03</testCaseGuid>
+</TestCaseEntity>

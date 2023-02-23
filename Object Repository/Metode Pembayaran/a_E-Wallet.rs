@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_E-Wallet</name>
+   <tag></tag>
+   <elementGuidId>1adb4e58-7d00-44d1-a9a4-6ee23043854e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-item.nav-link.nav-link.nav-link-payment.pointer.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'E-Wallet')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>988c5494-2962-474b-8a68-28bb8bbf7f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-item nav-link nav-link nav-link-payment pointer active</value>
+      <webElementGuid>e5799430-a338-4138-a10f-097eaf3f3dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mode</name>
+      <type>Main</type>
+      <value>ewallet</value>
+      <webElementGuid>bafb2e0a-a6db-4f12-997c-6f606f3e22eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> E-Wallet</value>
+      <webElementGuid>014da8d4-0b52-48d1-8107-5c9ed97932ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;container marketing&quot;]/div[@class=&quot;row if-data-payment event-menu-tab&quot;]/div[@class=&quot;col-md-8 col-8-nav&quot;]/div[@class=&quot;row row-nav-link&quot;]/nav[@class=&quot;nav nav-pills nav-justified&quot;]/a[@class=&quot;nav-item nav-link nav-link nav-link-payment pointer active&quot;]</value>
+      <webElementGuid>10fe0d0a-e11d-4a6b-8082-26c0d8edd04d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'E-Wallet')]</value>
+      <webElementGuid>0e6c4523-e669-49a2-8572-904c0c99162b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debit/Credit Card'])[1]/following::a[1]</value>
+      <webElementGuid>f2e9c1f1-b2f4-47ec-aeb8-61aa0768700e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Account'])[1]/following::a[2]</value>
+      <webElementGuid>b7f06a54-a345-487a-8d6f-ad2ab32b40df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Convenience Store'])[1]/preceding::a[1]</value>
+      <webElementGuid>7c014ddc-7b17-4d1c-8578-15ea12a55995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QRIS'])[1]/preceding::a[2]</value>
+      <webElementGuid>5e396428-ede2-4f6f-949d-de2b6a611584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='E-Wallet']/parent::*</value>
+      <webElementGuid>f73206d8-49af-4d4c-beef-1351dfaf2528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>12deb233-f400-4d67-90e6-10b0adaa0ee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' E-Wallet' or . = ' E-Wallet')]</value>
+      <webElementGuid>07a58d6d-5b15-409c-82ec-336e98fa9185</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

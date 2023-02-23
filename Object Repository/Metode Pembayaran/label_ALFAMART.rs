@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_ALFAMART</name>
+   <tag></tag>
+   <elementGuidId>970ead81-b893-4b1e-adbb-e6f67e978222</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.payment-list.payment-store > div.col-md-12.form-data-check > div.form-check > label.form-check-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='CREDIT/DEBIT CARD'])[1]/following::label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>519f49c1-5dd0-481b-84b5-0bd28e505719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-label</value>
+      <webElementGuid>3e5c56c0-f215-4655-8283-d881be382504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ALMA</value>
+      <webElementGuid>4f5bf5d9-e306-45a8-9a1f-6793fb1fd548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  ALFAMART
+                </value>
+      <webElementGuid>19d33b03-8437-46a3-b36a-7000e20b0aa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;container marketing&quot;]/div[@class=&quot;row if-data-payment event-menu-tab&quot;]/div[@class=&quot;col-md-8 col-8-nav&quot;]/div[@class=&quot;payment-list payment-store&quot;]/div[@class=&quot;col-md-12 form-data-check&quot;]/div[@class=&quot;form-check&quot;]/label[@class=&quot;form-check-label&quot;]</value>
+      <webElementGuid>562d89b5-db96-4d7d-b621-641337c91d55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CREDIT/DEBIT CARD'])[1]/following::label[1]</value>
+      <webElementGuid>4f343d5c-8dae-45f5-9888-cdaccf3048f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BRI Virtual Account'])[1]/following::label[2]</value>
+      <webElementGuid>ff08c05e-cf38-4b8b-8875-397f89351874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopeepay'])[1]/preceding::label[1]</value>
+      <webElementGuid>10192101-e64e-4628-bcc1-0be1fbc26f15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DANA'])[1]/preceding::label[2]</value>
+      <webElementGuid>3e645928-151f-4a43-be9c-66d7f7195531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ALFAMART']/parent::*</value>
+      <webElementGuid>5d6e95fa-ef25-4d1b-b57e-eecdaf5ee8c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/label</value>
+      <webElementGuid>626648a2-70b6-485a-89ee-1bffd7375a19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+                  ALFAMART
+                ' or . = '
+                  ALFAMART
+                ')]</value>
+      <webElementGuid>37ff84d9-1d4a-42e0-8de9-464f211df025</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

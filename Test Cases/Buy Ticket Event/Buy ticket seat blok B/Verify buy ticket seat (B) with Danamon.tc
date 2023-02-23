@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify buy ticket seat (B) with Danamon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80b32d9d-511c-4b32-a75a-55e93c652688</testCaseGuid>
+</TestCaseEntity>

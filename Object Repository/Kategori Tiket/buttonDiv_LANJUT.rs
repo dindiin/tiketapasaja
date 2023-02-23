@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonDiv_LANJUT</name>
+   <tag></tag>
+   <elementGuidId>880b998c-8b21-40a4-bb1a-cec9c612b19e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn.btn-md.btn-warning.btn-block.text-bold.tombol-next-input.next-input-pemesan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 300'])[5]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f70a7a4e-c1e6-4b57-908a-17b5da2839b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-md btn-warning btn-block text-bold tombol-next-input next-input-pemesan</value>
+      <webElementGuid>5ef577e1-ea87-40b6-a302-39401912833a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tab</name>
+      <type>Main</type>
+      <value>pemesan</value>
+      <webElementGuid>f60120b5-6abb-48c2-aaec-23f705ccab51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            LANJUT
+          </value>
+      <webElementGuid>c8b405e2-8289-45d3-b3eb-87530fa9f1fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;container marketing&quot;]/div[@class=&quot;row if-data-ticket event-menu-tab&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;btn btn-md btn-warning btn-block text-bold tombol-next-input next-input-pemesan&quot;]</value>
+      <webElementGuid>a34a6031-afaa-4105-901c-59476f0c003a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 300'])[5]/following::div[1]</value>
+      <webElementGuid>080947d8-64aa-4058-8d14-fef07c8a6161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GRANDTOTAL'])[1]/following::div[1]</value>
+      <webElementGuid>853ab604-cff5-4c02-87de-2a4e984a1abb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIK'])[1]/preceding::div[2]</value>
+      <webElementGuid>684d9bcc-887f-44c5-b964-e91ffb98089c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lengkap'])[1]/preceding::div[3]</value>
+      <webElementGuid>e0c8dba0-0aed-4cf5-a391-aa0303dc8ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LANJUT']/parent::*</value>
+      <webElementGuid>72803300-91fb-4f00-86a7-502c5349a12d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[3]</value>
+      <webElementGuid>3415f02a-a3f1-4b51-bf6b-2577707afbc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+            LANJUT
+          ' or . = '
+            LANJUT
+          ')]</value>
+      <webElementGuid>dd82efc7-6f05-4576-b091-e77174e5009c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

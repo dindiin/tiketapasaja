@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_LANJUT</name>
+   <tag></tag>
+   <elementGuidId>49855818-529d-4b63-8bf1-b87ac7990280</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-md.btn-warning.btn-block.text-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>84204ab4-dd62-4496-9b7f-52e1c6716878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>ed82b567-77db-4e56-9cb9-9fb3b9bb330e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-md btn-warning btn-block text-bold</value>
+      <webElementGuid>e847b8de-58dd-4a0d-ab5b-3586a42858c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LANJUT</value>
+      <webElementGuid>d1b64232-261f-47c9-af4a-4af1ebf99762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;container marketing&quot;]/div[@class=&quot;row if-data-pemesan event-menu-tab&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;form-pemesan&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group col-md-6&quot;]/button[@class=&quot;btn btn-md btn-warning btn-block text-bold&quot;]</value>
+      <webElementGuid>ef4a1ed4-8222-48c3-8f33-f1e4d21657fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>b929e280-6436-4d26-a880-55a9ee7e3041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEBELUMNYA'])[1]/following::button[1]</value>
+      <webElementGuid>13b64266-c2c4-41c9-a489-da2fe25bd0bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saya sudah memastikan semua data yang diinputkan sesuai.'])[1]/following::button[1]</value>
+      <webElementGuid>0d1083ab-f67e-4929-9e0c-e47f549aa107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Account'])[1]/preceding::button[1]</value>
+      <webElementGuid>c6a0dcca-e96c-4fe0-a579-ff927273d739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debit/Credit Card'])[1]/preceding::button[1]</value>
+      <webElementGuid>381e3052-28c3-4979-b7d4-c37a974ff3b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>971cd847-2078-4b11-bfb4-6dd2f3c5544d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'LANJUT' or . = 'LANJUT')]</value>
+      <webElementGuid>5fb12692-a978-4152-a939-a14597ede043</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
